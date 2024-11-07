@@ -1,0 +1,222 @@
+[
+  {
+    "ItemName": "EntryTheme_ItemName_400001",
+    "UnlockPartID": 100,
+    "ImagePath": "SpriteOutput/MaterialFigures/TestIcon",
+    "UnlockType": 1,
+    "iconPath": "SpriteOutput/MaterialFigures/TestIcon",
+    "ThemeItemID": 400001,
+    "ItemDesc": "EntryTheme_ItemDesc_400001",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_400002",
+    "UnlockPartID": 101,
+    "ImagePath": "SpriteOutput/MaterialFigures/400002",
+    "UnlockType": 1,
+    "iconPath": "SpriteOutput/MaterialIcons/400002",
+    "ThemeItemID": 400002,
+    "ItemDesc": "EntryTheme_ItemDesc_400002",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_400003",
+    "UnlockPartID": 102,
+    "ImagePath": "SpriteOutput/MaterialFigures/400003",
+    "UnlockType": 1,
+    "iconPath": "SpriteOutput/MaterialIcons/400003",
+    "ThemeItemID": 400003,
+    "ItemDesc": "EntryTheme_ItemDesc_400003",
+    "Rarity": 5
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_400004",
+    "UnlockPartID": 103,
+    "ImagePath": "SpriteOutput/MaterialFigures/400004",
+    "UnlockType": 1,
+    "iconPath": "SpriteOutput/MaterialIcons/EntryThemeItem_400004",
+    "ThemeItemID": 400004,
+    "ItemDesc": "EntryTheme_ItemDesc_400004",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_400005",
+    "UnlockPartID": 104,
+    "ImagePath": "SpriteOutput/MaterialFigures/400005",
+    "UnlockType": 1,
+    "iconPath": "SpriteOutput/MaterialIcons/EntryThemeItem_400005",
+    "ThemeItemID": 400005,
+    "ItemDesc": "EntryTheme_ItemDesc_400005",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_400006",
+    "UnlockPartID": 105,
+    "ImagePath": "SpriteOutput/MaterialFigures/EntryThemeItemFigures_400006",
+    "UnlockType": 1,
+    "iconPath": "SpriteOutput/MaterialIcons/EntryThemeItemIcon_400006",
+    "ThemeItemID": 400006,
+    "ItemDesc": "EntryTheme_ItemDesc_400006",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_400006",
+    "UnlockPartID": 106,
+    "ImagePath": "SpriteOutput/MaterialFigures/TestIcon",
+    "UnlockType": 1,
+    "iconPath": "SpriteOutput/MaterialFigures/TestIcon",
+    "ThemeItemID": 400007,
+    "ItemDesc": "EntryTheme_ItemDesc_400006",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401000",
+    "UnlockPartID": 200,
+    "ImagePath": "SpriteOutput/MaterialFigures/401000",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401000",
+    "ThemeItemID": 401000,
+    "ItemDesc": "EntryTheme_ItemDesc_401000",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401001",
+    "UnlockPartID": 201,
+    "ImagePath": "SpriteOutput/MaterialFigures/401001",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401001",
+    "ThemeItemID": 401001,
+    "ItemDesc": "EntryTheme_ItemDesc_401001",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401002",
+    "UnlockPartID": 202,
+    "ImagePath": "SpriteOutput/MaterialFigures/401002",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401002",
+    "ThemeItemID": 401002,
+    "ItemDesc": "EntryTheme_ItemDesc_401002",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401003",
+    "UnlockPartID": 203,
+    "ImagePath": "SpriteOutput/MaterialFigures/401003",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401003",
+    "ThemeItemID": 401003,
+    "ItemDesc": "EntryTheme_ItemDesc_401003",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401004",
+    "UnlockPartID": 204,
+    "ImagePath": "SpriteOutput/MaterialFigures/401004",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401004",
+    "ThemeItemID": 401004,
+    "ItemDesc": "EntryTheme_ItemDesc_401004",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401005",
+    "UnlockPartID": 205,
+    "ImagePath": "SpriteOutput/MaterialFigures/401000",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401000",
+    "ThemeItemID": 401005,
+    "ItemDesc": "EntryTheme_ItemDesc_401005",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401006",
+    "UnlockPartID": 206,
+    "ImagePath": "SpriteOutput/MaterialFigures/401001",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401001",
+    "ThemeItemID": 401006,
+    "ItemDesc": "EntryTheme_ItemDesc_401006",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401008",
+    "UnlockPartID": 208,
+    "ImagePath": "SpriteOutput/MaterialFigures/401002",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401002",
+    "ThemeItemID": 401008,
+    "ItemDesc": "EntryTheme_ItemDesc_401008",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401009",
+    "UnlockPartID": 209,
+    "ImagePath": "SpriteOutput/MaterialFigures/401003",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401003",
+    "ThemeItemID": 401009,
+    "ItemDesc": "EntryTheme_ItemDesc_401009",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401007",
+    "UnlockPartID": 207,
+    "ImagePath": "SpriteOutput/MaterialFigures/401000",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401000",
+    "ThemeItemID": 401010,
+    "ItemDesc": "EntryTheme_ItemDesc_401007",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401011",
+    "UnlockPartID": 210,
+    "ImagePath": "SpriteOutput/MaterialFigures/401004",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401004",
+    "ThemeItemID": 401011,
+    "ItemDesc": "EntryTheme_ItemDesc_401011",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401011",
+    "UnlockPartID": 211,
+    "ImagePath": "SpriteOutput/MaterialFigures/401004",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401004",
+    "ThemeItemID": 401012,
+    "ItemDesc": "EntryTheme_ItemDesc_401011",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401000",
+    "UnlockPartID": 0,
+    "ImagePath": "SpriteOutput/MaterialFigures/401000",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401000",
+    "ThemeItemID": 401998,
+    "ItemDesc": "EntryTheme_ItemDesc_401000",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401001",
+    "UnlockPartID": 1,
+    "ImagePath": "SpriteOutput/MaterialFigures/401001",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401001",
+    "ThemeItemID": 401999,
+    "ItemDesc": "EntryTheme_ItemDesc_401001",
+    "Rarity": 4
+  },
+  {
+    "ItemName": "EntryTheme_ItemName_401010",
+    "UnlockPartID": 10,
+    "ImagePath": "SpriteOutput/MaterialFigures/401010",
+    "UnlockType": 2,
+    "iconPath": "SpriteOutput/MaterialIcons/401010",
+    "ThemeItemID": 402000,
+    "ItemDesc": "EntryTheme_ItemDesc_401010",
+    "Rarity": 4
+  }
+]

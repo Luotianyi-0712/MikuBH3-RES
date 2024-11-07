@@ -1,0 +1,1046 @@
+[
+  {
+    "FeatureBrief": {
+      "hash": 1359144503
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10001",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_01",
+    "BGNHMDIKKDP": [
+      10101,
+      10102
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10001",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_01/Elf_01_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_Elf_01_BloodEmbrace_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10001",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg1",
+    "FullName": {
+      "hash": -1348940258
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 101,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232172
+        },
+        "TagID": 1003
+      }
+    ],
+    "elfCardID": 380101,
+    "StoryDesc": {
+      "hash": 1611414472
+    },
+    "selectAudio": "VO_Elf_01_BloodEmbrace_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg1",
+    "KCBOPNNHIGG": 2,
+    "UISoundbankName": "BK_Elf_01_VO_MainMenu",
+    "LKLIGPJLHNK": 1,
+    "elfFragmentID": 370101,
+    "Rarity": 3,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.3199999928474426,
+      "z": 3.740000009536743
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144504
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10002",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_02",
+    "BGNHMDIKKDP": [
+      10201,
+      10202
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10002",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_02/Elf_02_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_Elf_02_JWwings_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10002",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg2",
+    "FullName": {
+      "hash": -1348940257
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 102,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232171
+        },
+        "TagID": 1004
+      }
+    ],
+    "elfCardID": 380102,
+    "StoryDesc": {
+      "hash": 1611414473
+    },
+    "selectAudio": "VO_Elf_02_JWwings_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg2",
+    "KCBOPNNHIGG": 1,
+    "UISoundbankName": "BK_Elf_02_VO_MainMenu",
+    "LKLIGPJLHNK": 1,
+    "elfFragmentID": 370102,
+    "Rarity": 3,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.8199999928474426,
+      "z": 3.740000009536743
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144505
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10003",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_03",
+    "BGNHMDIKKDP": [
+      10301,
+      10302
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10003",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_03/Elf_03_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_Elf_03_SelunesElegy_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10003",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg3",
+    "FullName": {
+      "hash": -1348940256
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 103,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232170
+        },
+        "TagID": 1005
+      },
+      {
+        "TagComment": {
+          "hash": -2127232168
+        },
+        "TagID": 1007
+      }
+    ],
+    "elfCardID": 380103,
+    "StoryDesc": {
+      "hash": 1611414474
+    },
+    "selectAudio": "VO_Elf_03_SelunesElegy_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg3",
+    "KCBOPNNHIGG": 3,
+    "UISoundbankName": "BK_Elf_03_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370103,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.3199999928474426,
+      "z": 3.740000009536743
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144508
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10006",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_06",
+    "BGNHMDIKKDP": [
+      10601,
+      10602
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10006",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 1.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_06/Elf_06_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_Elf_06_BookOfFuxi_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10006",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg6",
+    "FullName": {
+      "hash": -1348940253
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 106,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232171
+        },
+        "TagID": 1004
+      }
+    ],
+    "elfCardID": 380106,
+    "StoryDesc": {
+      "hash": 1611414477
+    },
+    "selectAudio": "VO_Elf_06_BookOfFuxi_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg6",
+    "KCBOPNNHIGG": 6,
+    "UISoundbankName": "BK_Elf_06_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370106,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.8199999928474426,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144510
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10008",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_08",
+    "BGNHMDIKKDP": [
+      10801,
+      10802
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10008",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 1.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_08/Elf_08_UI",
+    "DHBGNNCMFHI": [
+      37234
+    ],
+    "LevelUpAudio": "VO_Elf_08_WotanFists_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10008",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg8",
+    "FullName": {
+      "hash": -1348940251
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 108,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232172
+        },
+        "TagID": 1003
+      }
+    ],
+    "elfCardID": 380108,
+    "StoryDesc": {
+      "hash": 1611414479
+    },
+    "selectAudio": "VO_Elf_08_WotanFists_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg8",
+    "KCBOPNNHIGG": 8,
+    "UISoundbankName": "BK_Elf_08_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370108,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.16500000655651093,
+      "y": -0.2199999988079071,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144511
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10009",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_09",
+    "BGNHMDIKKDP": [
+      10901,
+      10902
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10009",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 1.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_09/Elf_09_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_Elf_09_Benares_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10009",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg9",
+    "FullName": {
+      "hash": -1348940250
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 109,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232169
+        },
+        "TagID": 1006
+      }
+    ],
+    "elfCardID": 380109,
+    "StoryDesc": {
+      "hash": 1611414480
+    },
+    "selectAudio": "VO_Elf_09_Benares_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg9",
+    "KCBOPNNHIGG": 9,
+    "UISoundbankName": "BK_Elf_09_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370109,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.9300000071525574,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144533
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10010",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_10",
+    "BGNHMDIKKDP": [
+      11001,
+      11002
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10010",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 1.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_10/Elf_10_UI",
+    "DHBGNNCMFHI": [
+      37254
+    ],
+    "LevelUpAudio": "VO_Elf_10_Ruoshui_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10010",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg10",
+    "FullName": {
+      "hash": -1348940228
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 110,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232170
+        },
+        "TagID": 1005
+      },
+      {
+        "TagComment": {
+          "hash": -2127232136
+        },
+        "TagID": 1018
+      }
+    ],
+    "elfCardID": 380110,
+    "StoryDesc": {
+      "hash": 1611414502
+    },
+    "selectAudio": "VO_Elf_10_Ruoshui_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg10",
+    "KCBOPNNHIGG": 10,
+    "UISoundbankName": "BK_Elf_10_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370110,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.9300000071525574,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144534
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10011",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_11",
+    "BGNHMDIKKDP": [
+      11101,
+      11102
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10011",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 1.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_11/Elf_11_UI",
+    "DHBGNNCMFHI": [
+      37305
+    ],
+    "LevelUpAudio": "VO_Elf_11_Sirin_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10011",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg11",
+    "FullName": {
+      "hash": -1348940227
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 111,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232171
+        },
+        "TagID": 1004
+      },
+      {
+        "TagComment": {
+          "hash": -2127232144
+        },
+        "TagID": 1010
+      }
+    ],
+    "elfCardID": 380111,
+    "StoryDesc": {
+      "hash": 1611414503
+    },
+    "selectAudio": "VO_Elf_11_Sirin_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg11",
+    "KCBOPNNHIGG": 11,
+    "UISoundbankName": "BK_Elf_11_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370111,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.9700000286102295,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144535
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10012",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_12",
+    "BGNHMDIKKDP": [
+      11201,
+      11202
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10012",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 1.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_12/Elf_12_UI",
+    "DHBGNNCMFHI": [
+      37321
+    ],
+    "LevelUpAudio": "VO_Elf_12_Klein_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10012",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg12",
+    "FullName": {
+      "hash": -1348940226
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 112,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232169
+        },
+        "TagID": 1006
+      },
+      {
+        "TagComment": {
+          "hash": -2127232167
+        },
+        "TagID": 1008
+      }
+    ],
+    "elfCardID": 380112,
+    "StoryDesc": {
+      "hash": 1611414504
+    },
+    "selectAudio": "VO_Elf_12_Klein_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg12",
+    "KCBOPNNHIGG": 12,
+    "UISoundbankName": "BK_Elf_12_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370112,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.16500000655651093,
+      "y": -0.25,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144536
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10013",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_13",
+    "BGNHMDIKKDP": [
+      11301,
+      11302
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10013",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_13/Elf_13_UI",
+    "DHBGNNCMFHI": [
+      37327
+    ],
+    "LevelUpAudio": "VO_Elf_13_DurSword_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10013",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg13",
+    "FullName": {
+      "hash": -1348940225
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 113,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232172
+        },
+        "TagID": 1003
+      },
+      {
+        "TagComment": {
+          "hash": -2127232136
+        },
+        "TagID": 1018
+      }
+    ],
+    "elfCardID": 380113,
+    "StoryDesc": {
+      "hash": 1611414505
+    },
+    "selectAudio": "VO_Elf_13_DurSword_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg13",
+    "KCBOPNNHIGG": 13,
+    "UISoundbankName": "BK_Elf_13_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370113,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.9300000071525574,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144537
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10014",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_14",
+    "BGNHMDIKKDP": [
+      11402,
+      11401
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10014",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_14/Elf_14_UI",
+    "DHBGNNCMFHI": [
+      37341
+    ],
+    "LevelUpAudio": "VO_Elf_14_ElfEly_LevelUp",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10014",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg14",
+    "FullName": {
+      "hash": -1348940224
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 114,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232170
+        },
+        "TagID": 1005
+      },
+      {
+        "TagComment": {
+          "hash": -2127232136
+        },
+        "TagID": 1018
+      }
+    ],
+    "elfCardID": 380114,
+    "StoryDesc": {
+      "hash": 1611414506
+    },
+    "selectAudio": "VO_Elf_14_ElfEly_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg14",
+    "KCBOPNNHIGG": 14,
+    "UISoundbankName": "BK_Elf_14_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370114,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.9300000071525574,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144538
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10015",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_15",
+    "BGNHMDIKKDP": [
+      11502,
+      11501
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10015",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_15/Elf_15_UI",
+    "DHBGNNCMFHI": [
+      37354
+    ],
+    "LevelUpAudio": "VO_Elf_15_Kiana_LevelUp_1",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10015",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg15",
+    "FullName": {
+      "hash": -1348940223
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 115,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232171
+        },
+        "TagID": 1004
+      },
+      {
+        "TagComment": {
+          "hash": -2127232169
+        },
+        "TagID": 1006
+      },
+      {
+        "TagComment": {
+          "hash": -2127232136
+        },
+        "TagID": 1018
+      }
+    ],
+    "elfCardID": 380115,
+    "StoryDesc": {
+      "hash": 1611414507
+    },
+    "selectAudio": "VO_Elf_15_Kiana_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg15",
+    "KCBOPNNHIGG": 15,
+    "UISoundbankName": "BK_Elf_15_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370115,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.9300000071525574,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144539
+    },
+    "StoryBGImg": "SpriteOutput/ElfCardFigures/Elf_10016",
+    "IconPath": "SpriteOutput/ElfIcon/Elf_16",
+    "BGNHMDIKKDP": [
+      11601,
+      11602
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/Elf_10016",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -7.199999809265137,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_16/Elf_16_UI",
+    "DHBGNNCMFHI": [
+      37362
+    ],
+    "LevelUpAudio": "VO_Elf_16_Rabbit_LevelUp_1",
+    "presentBGImg": "SpriteOutput/ElfCardFigures/Elf_10016",
+    "skillTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg16",
+    "FullName": {
+      "hash": -1348940222
+    },
+    "FHAENAFLPPP": "",
+    "FOECCIJAHLI": 0,
+    "ElfID": 116,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232172
+        },
+        "TagID": 1003
+      },
+      {
+        "TagComment": {
+          "hash": -2127232136
+        },
+        "TagID": 1018
+      }
+    ],
+    "elfCardID": 380116,
+    "StoryDesc": {
+      "hash": 1611414508
+    },
+    "selectAudio": "VO_Elf_16_Rabbit_SwitchIn",
+    "JACJNCFEEOF": 1,
+    "MaxRarity": 7,
+    "talentTabBGImg": "SpriteOutput/ElfTalentBg/TalentBg16",
+    "KCBOPNNHIGG": 16,
+    "UISoundbankName": "BK_Elf_16_VO_MainMenu",
+    "LKLIGPJLHNK": 2,
+    "elfFragmentID": 370116,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.13500000536441803,
+      "y": -0.9300000071525574,
+      "z": 3.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144564
+    },
+    "StoryBGImg": "SpriteOutput/AstraCardFigures/AstraMate_01",
+    "IconPath": "SpriteOutput/AstraIcon/AstraMate_01",
+    "BGNHMDIKKDP": [
+      12001,
+      12002,
+      12003,
+      12004,
+      12005,
+      12006,
+      12007,
+      12008,
+      12009,
+      12012,
+      12010,
+      12013,
+      12011,
+      12014
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/AstraMate_01",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -9.550000190734863,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_120_Entropy/Elf_120_Entropy_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_M_1P_LevelUp",
+    "presentBGImg": "SpriteOutput/AstraCardFigures/AstraMate_01",
+    "skillTabBGImg": "",
+    "FullName": {
+      "hash": -344169980
+    },
+    "FHAENAFLPPP": "SpriteOutput/AstraIconSide/AstraMate_01",
+    "FOECCIJAHLI": 0,
+    "ElfID": 120,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232169
+        },
+        "TagID": 1006
+      }
+    ],
+    "elfCardID": 380120,
+    "StoryDesc": {
+      "hash": 1611414533
+    },
+    "selectAudio": "VO_Ngal_Player_1P_3_1",
+    "JACJNCFEEOF": 3,
+    "MaxRarity": 3,
+    "talentTabBGImg": "",
+    "KCBOPNNHIGG": 20,
+    "UISoundbankName": "BK_VO_GalTouch_Entropy_1P",
+    "LKLIGPJLHNK": 1,
+    "elfFragmentID": 370120,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.43799999356269836,
+      "y": -1.1699999570846558,
+      "z": 2.950000047683716
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144595
+    },
+    "StoryBGImg": "SpriteOutput/AstraCardFigures/AstraMate_02",
+    "IconPath": "SpriteOutput/AstraIcon/AstraMate_02",
+    "BGNHMDIKKDP": [
+      13001,
+      13002,
+      13003,
+      13004,
+      13005,
+      13006,
+      13007,
+      13008,
+      13009,
+      13010,
+      13011
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/AstraMate_02",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -9.550000190734863,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_130_Entropy/Elf_130_Entropy_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "",
+    "presentBGImg": "SpriteOutput/AstraCardFigures/AstraMate_02",
+    "skillTabBGImg": "",
+    "FullName": {
+      "hash": -344169949
+    },
+    "FHAENAFLPPP": "SpriteOutput/AstraIconSide/AstraMate_02",
+    "FOECCIJAHLI": 0,
+    "ElfID": 130,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232169
+        },
+        "TagID": 1006
+      }
+    ],
+    "elfCardID": 380130,
+    "StoryDesc": {
+      "hash": 1611414564
+    },
+    "selectAudio": "VO_Ngal_Player_2P_3_1",
+    "JACJNCFEEOF": 3,
+    "MaxRarity": 3,
+    "talentTabBGImg": "",
+    "KCBOPNNHIGG": 30,
+    "UISoundbankName": "BK_VO_GalTouch_Entropy_2P",
+    "LKLIGPJLHNK": 1,
+    "elfFragmentID": 370120,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.43799999356269836,
+      "y": -1.1699999570846558,
+      "z": 2.950000047683716
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144626
+    },
+    "StoryBGImg": "SpriteOutput/AstraCardFigures/AstraMate_03",
+    "IconPath": "SpriteOutput/AstraIcon/AstraMate_03",
+    "BGNHMDIKKDP": [
+      14001,
+      14002,
+      14003,
+      14004,
+      14005,
+      14006,
+      14007,
+      14008,
+      14009,
+      14010,
+      14011
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/AstraMate_03",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -9.550000190734863,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_140_Songque/Elf_140_Songque_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_Ngal_SQ_3_1",
+    "presentBGImg": "SpriteOutput/AstraCardFigures/AstraMate_03",
+    "skillTabBGImg": "",
+    "FullName": {
+      "hash": -344169918
+    },
+    "FHAENAFLPPP": "SpriteOutput/AstraIconSide/AstraMate_03",
+    "FOECCIJAHLI": 0,
+    "ElfID": 140,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232169
+        },
+        "TagID": 1006
+      }
+    ],
+    "elfCardID": 380140,
+    "StoryDesc": {
+      "hash": 1611414595
+    },
+    "selectAudio": "VO_Ngal_SQ_3_2",
+    "JACJNCFEEOF": 2,
+    "MaxRarity": 3,
+    "talentTabBGImg": "",
+    "KCBOPNNHIGG": 40,
+    "UISoundbankName": "BK_VO_GalTouch_Songque",
+    "LKLIGPJLHNK": 1,
+    "elfFragmentID": 370140,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.41600000858306885,
+      "y": -1.1100000143051147,
+      "z": 2.75
+    }
+  },
+  {
+    "FeatureBrief": {
+      "hash": 1359144657
+    },
+    "StoryBGImg": "SpriteOutput/AstraCardFigures/AstraMate_04",
+    "IconPath": "SpriteOutput/AstraIcon/AstraMate_04",
+    "BGNHMDIKKDP": [
+      15001,
+      15002,
+      15003,
+      15004,
+      15005,
+      15006,
+      15007,
+      15008,
+      15009,
+      15010,
+      15011
+    ],
+    "MaxLevel": 80,
+    "CDHKKFDHDNG": "SpriteOutput/AvatarChibiIcons/AstraMate_04",
+    "ElfUIModelRotation": {
+      "x": 0.0,
+      "y": -9.550000190734863,
+      "z": 0.0
+    },
+    "ElfUIModelPath": "Entities/Elf/Elf_150_Serapeum/Elf_150_Serapeum_UI",
+    "DHBGNNCMFHI": [],
+    "LevelUpAudio": "VO_Ngal_Ser_3_1",
+    "presentBGImg": "SpriteOutput/AstraCardFigures/AstraMate_04",
+    "skillTabBGImg": "",
+    "FullName": {
+      "hash": -344169887
+    },
+    "FHAENAFLPPP": "SpriteOutput/AstraIconSide/AstraMate_04",
+    "FOECCIJAHLI": 0,
+    "ElfID": 150,
+    "TagList": [
+      {
+        "TagComment": {
+          "hash": -2127232172
+        },
+        "TagID": 1003
+      }
+    ],
+    "elfCardID": 380150,
+    "StoryDesc": {
+      "hash": 1611414626
+    },
+    "selectAudio": "VO_Ngal_Ser_3_2",
+    "JACJNCFEEOF": 2,
+    "MaxRarity": 3,
+    "talentTabBGImg": "",
+    "KCBOPNNHIGG": 50,
+    "UISoundbankName": "BK_VO_GalTouch_Serapeum_Assister",
+    "LKLIGPJLHNK": 1,
+    "elfFragmentID": 370150,
+    "Rarity": 4,
+    "PHOJBDBIAPG": {
+      "x": 0.41600000858306885,
+      "y": -1.1100000143051147,
+      "z": 2.75
+    }
+  }
+]

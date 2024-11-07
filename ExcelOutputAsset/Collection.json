@@ -1,0 +1,2756 @@
+[
+  {
+    "ID": 1,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549915
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 1
+  },
+  {
+    "ID": 2,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766934
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549916
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 2
+  },
+  {
+    "ID": 3,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766933
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549917
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 3
+  },
+  {
+    "ID": 4,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766932
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549918
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 4
+  },
+  {
+    "ID": 5,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766931
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549919
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 5
+  },
+  {
+    "ID": 6,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766930
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549920
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 6
+  },
+  {
+    "ID": 7,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766929
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549921
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 7
+  },
+  {
+    "ID": 8,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766928
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549922
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 8
+  },
+  {
+    "ID": 9,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766927
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1463549923
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 9
+  },
+  {
+    "ID": 10,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265497
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592843
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10
+  },
+  {
+    "ID": 11,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265496
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592842
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 11
+  },
+  {
+    "ID": 12,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265495
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592841
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 12
+  },
+  {
+    "ID": 13,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265494
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592840
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 13
+  },
+  {
+    "ID": 14,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265493
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592839
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 14
+  },
+  {
+    "ID": 15,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265492
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592838
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 15
+  },
+  {
+    "ID": 16,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265491
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592837
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 16
+  },
+  {
+    "ID": 17,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265490
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592836
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 17
+  },
+  {
+    "ID": 18,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265489
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592835
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 18
+  },
+  {
+    "ID": 19,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265488
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592834
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 19
+  },
+  {
+    "ID": 20,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265466
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592812
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20
+  },
+  {
+    "ID": 21,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265465
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592811
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21
+  },
+  {
+    "ID": 22,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265464
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592810
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22
+  },
+  {
+    "ID": 23,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265463
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592809
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 23
+  },
+  {
+    "ID": 24,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265462
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592808
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24
+  },
+  {
+    "ID": 25,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265461
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592807
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 25
+  },
+  {
+    "ID": 26,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265460
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592806
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 26
+  },
+  {
+    "ID": 27,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265459
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592805
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 27
+  },
+  {
+    "ID": 28,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265458
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592804
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 28
+  },
+  {
+    "ID": 29,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265457
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592803
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 29
+  },
+  {
+    "ID": 30,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265435
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592781
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 30
+  },
+  {
+    "ID": 31,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265434
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592780
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 31
+  },
+  {
+    "ID": 32,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265433
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592779
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 32
+  },
+  {
+    "ID": 33,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265432
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592778
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 33
+  },
+  {
+    "ID": 34,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265431
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592777
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 34
+  },
+  {
+    "ID": 35,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265430
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592776
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 35
+  },
+  {
+    "ID": 36,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265429
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592775
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 36
+  },
+  {
+    "ID": 37,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265428
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592774
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 37
+  },
+  {
+    "ID": 38,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265427
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592773
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 38
+  },
+  {
+    "ID": 39,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265426
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592772
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 39
+  },
+  {
+    "ID": 40,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265404
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592750
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 40
+  },
+  {
+    "ID": 41,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265403
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592749
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 41
+  },
+  {
+    "ID": 42,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265402
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592748
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 42
+  },
+  {
+    "ID": 43,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265401
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592747
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 43
+  },
+  {
+    "ID": 44,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265400
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592746
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 44
+  },
+  {
+    "ID": 50,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265373
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592719
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 50
+  },
+  {
+    "ID": 51,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265372
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592718
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 51
+  },
+  {
+    "ID": 52,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265371
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592717
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 52
+  },
+  {
+    "ID": 53,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265370
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592716
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 53
+  },
+  {
+    "ID": 54,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265369
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592715
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 54
+  },
+  {
+    "ID": 55,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265368
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592714
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 55
+  },
+  {
+    "ID": 56,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265367
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592713
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 56
+  },
+  {
+    "ID": 57,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265366
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592712
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 57
+  },
+  {
+    "ID": 58,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265365
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592711
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 58
+  },
+  {
+    "ID": 59,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265364
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592710
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 59
+  },
+  {
+    "ID": 60,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265342
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592688
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 60
+  },
+  {
+    "ID": 61,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265341
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592687
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 61
+  },
+  {
+    "ID": 62,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265340
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592686
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 62
+  },
+  {
+    "ID": 63,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -172265339
+    },
+    "BLAKFEFPNCN": 3,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": -1874592685
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 63
+  },
+  {
+    "ID": 10101,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": 524546219
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464412701
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10101
+  },
+  {
+    "ID": 10201,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": 524547180
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464413662
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10201
+  },
+  {
+    "ID": 10301,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": 524548141
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464414623
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10301
+  },
+  {
+    "ID": 10401,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": 524549102
+    },
+    "BLAKFEFPNCN": 2,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464415584
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10401
+  },
+  {
+    "ID": 10402,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": 524549103
+    },
+    "BLAKFEFPNCN": 2,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464415585
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10402
+  },
+  {
+    "ID": 10403,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": 524549104
+    },
+    "BLAKFEFPNCN": 2,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464415586
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10403
+  },
+  {
+    "ID": 10501,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464416545
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10501
+  },
+  {
+    "ID": 10502,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464416546
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10502
+  },
+  {
+    "ID": 10503,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464416547
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10503
+  },
+  {
+    "ID": 10504,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464416548
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10504
+  },
+  {
+    "ID": 10601,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464417506
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10601
+  },
+  {
+    "ID": 10701,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464418467
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10701
+  },
+  {
+    "ID": 10801,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464419428
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10801
+  },
+  {
+    "ID": 10901,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464420389
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10901
+  },
+  {
+    "ID": 10902,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464420390
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10902
+  },
+  {
+    "ID": 10903,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -2083766935
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464420391
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 10903
+  },
+  {
+    "ID": 11001,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464441531
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 11001
+  },
+  {
+    "ID": 11002,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464441532
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 11002
+  },
+  {
+    "ID": 11003,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464441533
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 11003
+  },
+  {
+    "ID": 11101,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464442492
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": false,
+    "PJPIDHCLHBE": 11101
+  },
+  {
+    "ID": 11201,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 1,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1464443453
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 11201
+  },
+  {
+    "ID": 20101,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525469740
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465336222
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20101
+  },
+  {
+    "ID": 20201,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525470701
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465337183
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20201
+  },
+  {
+    "ID": 20301,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525471662
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465338144
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20301
+  },
+  {
+    "ID": 20401,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_Common",
+    "BIJCJAECIJO": {
+      "hash": 525472623
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465339105
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20401
+  },
+  {
+    "ID": 20501,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525473584
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465340066
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20501
+  },
+  {
+    "ID": 20601,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525474545
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465341027
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20601
+  },
+  {
+    "ID": 20701,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525475506
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465341988
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20701
+  },
+  {
+    "ID": 20801,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525476467
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465342949
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20801
+  },
+  {
+    "ID": 20802,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525476468
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465342950
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20802
+  },
+  {
+    "ID": 20803,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525476469
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465342951
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20803
+  },
+  {
+    "ID": 20901,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525477428
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465343910
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 20901
+  },
+  {
+    "ID": 21001,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525498570
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465365052
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21001
+  },
+  {
+    "ID": 21101,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525499531
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465366013
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21101
+  },
+  {
+    "ID": 21201,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525500492
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465366974
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21201
+  },
+  {
+    "ID": 21202,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525500493
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465366975
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21202
+  },
+  {
+    "ID": 21203,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525500494
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465366976
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21203
+  },
+  {
+    "ID": 21204,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525500495
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465366977
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21204
+  },
+  {
+    "ID": 21301,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525501453
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465367935
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21301
+  },
+  {
+    "ID": 21401,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525502414
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465368896
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21401
+  },
+  {
+    "ID": 21501,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525503375
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465369857
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21501
+  },
+  {
+    "ID": 21601,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525504336
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465370818
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21601
+  },
+  {
+    "ID": 21701,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525505297
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465371779
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21701
+  },
+  {
+    "ID": 21801,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525506258
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465372740
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21801
+  },
+  {
+    "ID": 21901,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525507219
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465373701
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21901
+  },
+  {
+    "ID": 21911,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525507250
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465373732
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21911
+  },
+  {
+    "ID": 21912,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525507251
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": true,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": true,
+    "NDNFIGBEDFH": {
+      "hash": 1465373733
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21912
+  },
+  {
+    "ID": 21913,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525507252
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465373734
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 21913
+  },
+  {
+    "ID": 22101,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525529322
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465395804
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22101
+  },
+  {
+    "ID": 22102,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525529323
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465395805
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22102
+  },
+  {
+    "ID": 22103,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525529324
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465395806
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22103
+  },
+  {
+    "ID": 22201,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525530283
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465396765
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22201
+  },
+  {
+    "ID": 22202,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525530284
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465396766
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22202
+  },
+  {
+    "ID": 22204,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525530286
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465396768
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22204
+  },
+  {
+    "ID": 22205,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525530287
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465396769
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22205
+  },
+  {
+    "ID": 22301,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525531244
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465397726
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22301
+  },
+  {
+    "ID": 22303,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525531246
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465397728
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22303
+  },
+  {
+    "ID": 22304,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525531247
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465397729
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22304
+  },
+  {
+    "ID": 22401,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525532205
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465398687
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22401
+  },
+  {
+    "ID": 22402,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525532206
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465398688
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22402
+  },
+  {
+    "ID": 22501,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525533166
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465399648
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22501
+  },
+  {
+    "ID": 22502,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525533167
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465399649
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22502
+  },
+  {
+    "ID": 22503,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525533168
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465399650
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22503
+  },
+  {
+    "ID": 22601,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525534127
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465400609
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22601
+  },
+  {
+    "ID": 22602,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525534128
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465400610
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22602
+  },
+  {
+    "ID": 22603,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525534129
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465400611
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22603
+  },
+  {
+    "ID": 22604,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525534130
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465400612
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22604
+  },
+  {
+    "ID": 22605,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525534131
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465400613
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22605
+  },
+  {
+    "ID": 22701,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525535088
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465401570
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22701
+  },
+  {
+    "ID": 22702,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525535089
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465401571
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22702
+  },
+  {
+    "ID": 22703,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525535090
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465401572
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22703
+  },
+  {
+    "ID": 22704,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525535091
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465401573
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22704
+  },
+  {
+    "ID": 22705,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525535092
+    },
+    "BLAKFEFPNCN": 4,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465401574
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 22705
+  },
+  {
+    "ID": 23101,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Audio_Common",
+    "BIJCJAECIJO": {
+      "hash": 525559113
+    },
+    "BLAKFEFPNCN": 2,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465425595
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 23101
+  },
+  {
+    "ID": 24101,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525588904
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465455386
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24101
+  },
+  {
+    "ID": 24201,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525589865
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465456347
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24201
+  },
+  {
+    "ID": 24301,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525590826
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465457308
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24301
+  },
+  {
+    "ID": 24401,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525591787
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465458269
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24401
+  },
+  {
+    "ID": 24501,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525592748
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465459230
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24501
+  },
+  {
+    "ID": 24601,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525593709
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465460191
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24601
+  },
+  {
+    "ID": 24701,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525594670
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465461152
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24701
+  },
+  {
+    "ID": 24801,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525595631
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465462113
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24801
+  },
+  {
+    "ID": 24901,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldZero",
+    "BIJCJAECIJO": {
+      "hash": 525596592
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465463074
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 24901
+  },
+  {
+    "ID": 25101,
+    "BICCCGKIGPG": "SpriteOutput/MaterialIcons/Collect_Book_WorldOne",
+    "BIJCJAECIJO": {
+      "hash": 525618695
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 2,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1465485177
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 25101
+  },
+  {
+    "ID": 30101,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1466259743
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 30101
+  },
+  {
+    "ID": 30201,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1466260704
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 30201
+  },
+  {
+    "ID": 30301,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1466261665
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 30301
+  },
+  {
+    "ID": 30302,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1466261666
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 30302
+  },
+  {
+    "ID": 30303,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1466261667
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 30303
+  },
+  {
+    "ID": 30401,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 3,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1466262626
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 30401
+  },
+  {
+    "ID": 40001,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 4,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1467182303
+    },
+    "OFGJDLBPPCP": false,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 40001
+  },
+  {
+    "ID": 40002,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 4,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1467182304
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 40002
+  },
+  {
+    "ID": 40003,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 4,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1467182305
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 40003
+  },
+  {
+    "ID": 40004,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 4,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1467182306
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 40004
+  },
+  {
+    "ID": 40005,
+    "BICCCGKIGPG": "",
+    "BIJCJAECIJO": {
+      "hash": -1466703527
+    },
+    "BLAKFEFPNCN": 1,
+    "FOCAMGNHMOL": 4,
+    "HHHJFFNJLKA": false,
+    "IGJMHJDKIFG": "",
+    "LMMEFEMFHFF": false,
+    "NDNFIGBEDFH": {
+      "hash": 1467182307
+    },
+    "OFGJDLBPPCP": true,
+    "OPGAPLNHBPO": true,
+    "PJPIDHCLHBE": 40005
+  }
+]

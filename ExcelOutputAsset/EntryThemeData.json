@@ -1,0 +1,315 @@
+[
+  {
+    "AKBMFBGNGLP": false,
+    "Display": true,
+    "ThemeBGSmall": "SpriteOutput/SpaceShip/Tab/Tab01",
+    "GFLJDALCIGB": false,
+    "HENILAHGNJK": [
+      401998,
+      401999,
+      402000
+    ],
+    "RandomThemeBGM": 0,
+    "SpecialConfigList": [
+      0
+    ],
+    "ThemeGetDesc": {
+      "hash": -1390599181
+    },
+    "WeatherGroupConfig": 1,
+    "ThemeUIConfig": 0,
+    "ThemeBGLarge": "SpriteOutput/SpaceShip/Bg/Bg01",
+    "ThemeDesc": {
+      "hash": 1324956362
+    },
+    "ThemeName": {
+      "hash": 1607376964
+    },
+    "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab01",
+    "GiftDesc": {
+      "hash": -1935531959
+    },
+    "ThemeBGMConfigList": [
+      401998,
+      401999
+    ],
+    "SpaceShipConfigID": 0,
+    "ThemeTagList": []
+  },
+  {
+    "AKBMFBGNGLP": false,
+    "Display": false,
+    "ThemeBGSmall": "SpriteOutput/LevelDetailPic/ScenePicArcCity09",
+    "GFLJDALCIGB": false,
+    "HENILAHGNJK": [
+      401000
+    ],
+    "RandomThemeBGM": 0,
+    "SpecialConfigList": [
+      101,
+      102
+    ],
+    "ThemeGetDesc": {
+      "hash": -782723596
+    },
+    "WeatherGroupConfig": 1,
+    "ThemeUIConfig": 100,
+    "ThemeBGLarge": "SpriteOutput/LevelDetailPic/ScenePicArcCity09",
+    "ThemeDesc": {
+      "hash": 1729063243
+    },
+    "ThemeName": {
+      "hash": -1688108603
+    },
+    "GiftBGPath": "SpriteOutput/LevelDetailPic/ScenePicArcCity09",
+    "GiftDesc": {
+      "hash": 701627396
+    },
+    "ThemeBGMConfigList": [
+      401000
+    ],
+    "SpaceShipConfigID": 400001,
+    "ThemeTagList": []
+  },
+  {
+    "AKBMFBGNGLP": false,
+    "Display": true,
+    "ThemeBGSmall": "SpriteOutput/SpaceShip/Tab/Tab02",
+    "GFLJDALCIGB": false,
+    "HENILAHGNJK": [
+      401000,
+      401001
+    ],
+    "RandomThemeBGM": 3,
+    "SpecialConfigList": [
+      0
+    ],
+    "ThemeGetDesc": {
+      "hash": 1591259804
+    },
+    "WeatherGroupConfig": 2,
+    "ThemeUIConfig": 0,
+    "ThemeBGLarge": "SpriteOutput/SpaceShip/Bg/Bg02",
+    "ThemeDesc": {
+      "hash": 2147240484
+    },
+    "ThemeName": {
+      "hash": -705871638
+    },
+    "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab02",
+    "GiftDesc": {
+      "hash": 701627397
+    },
+    "ThemeBGMConfigList": [
+      401000,
+      401001
+    ],
+    "SpaceShipConfigID": 400002,
+    "ThemeTagList": [
+      2,
+      4
+    ]
+  },
+  {
+    "AKBMFBGNGLP": false,
+    "Display": true,
+    "ThemeBGSmall": "SpriteOutput/SpaceShip/Tab/Tab03",
+    "GFLJDALCIGB": false,
+    "HENILAHGNJK": [
+      401002,
+      401003,
+      401004
+    ],
+    "RandomThemeBGM": 4,
+    "SpecialConfigList": [
+      0
+    ],
+    "ThemeGetDesc": {
+      "hash": 1591259804
+    },
+    "WeatherGroupConfig": 3,
+    "ThemeUIConfig": 0,
+    "ThemeBGLarge": "SpriteOutput/SpaceShip/Bg/Bg03",
+    "ThemeDesc": {
+      "hash": 2147240485
+    },
+    "ThemeName": {
+      "hash": -705871637
+    },
+    "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab03",
+    "GiftDesc": {
+      "hash": 701627398
+    },
+    "ThemeBGMConfigList": [
+      401002,
+      401003,
+      401004
+    ],
+    "SpaceShipConfigID": 400003,
+    "ThemeTagList": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "AKBMFBGNGLP": false,
+    "Display": true,
+    "ThemeBGSmall": "SpriteOutput/SpaceShip/Tab/Tab04",
+    "GFLJDALCIGB": false,
+    "HENILAHGNJK": [
+      401005,
+      401006
+    ],
+    "RandomThemeBGM": 5,
+    "SpecialConfigList": [
+      0
+    ],
+    "ThemeGetDesc": {
+      "hash": 1591259803
+    },
+    "WeatherGroupConfig": 4,
+    "ThemeUIConfig": 0,
+    "ThemeBGLarge": "SpriteOutput/SpaceShip/Bg/Bg04",
+    "ThemeDesc": {
+      "hash": 2147240486
+    },
+    "ThemeName": {
+      "hash": -705871636
+    },
+    "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab04",
+    "GiftDesc": {
+      "hash": 701627399
+    },
+    "ThemeBGMConfigList": [
+      401005,
+      401006
+    ],
+    "SpaceShipConfigID": 400004,
+    "ThemeTagList": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "AKBMFBGNGLP": true,
+    "Display": true,
+    "ThemeBGSmall": "SpriteOutput/SpaceShip/Tab/Tab05",
+    "GFLJDALCIGB": false,
+    "HENILAHGNJK": [
+      401010
+    ],
+    "RandomThemeBGM": 0,
+    "SpecialConfigList": [
+      0
+    ],
+    "ThemeGetDesc": {
+      "hash": 1591259803
+    },
+    "WeatherGroupConfig": 5,
+    "ThemeUIConfig": 0,
+    "ThemeBGLarge": "SpriteOutput/SpaceShip/Bg/Bg05",
+    "ThemeDesc": {
+      "hash": 2147240487
+    },
+    "ThemeName": {
+      "hash": -705871635
+    },
+    "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab05",
+    "GiftDesc": {
+      "hash": 701627400
+    },
+    "ThemeBGMConfigList": [
+      401010
+    ],
+    "SpaceShipConfigID": 400005,
+    "ThemeTagList": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "AKBMFBGNGLP": false,
+    "Display": true,
+    "ThemeBGSmall": "SpriteOutput/SpaceShip/Tab/Tab06",
+    "GFLJDALCIGB": false,
+    "HENILAHGNJK": [
+      401008,
+      401009,
+      401011
+    ],
+    "RandomThemeBGM": 6,
+    "SpecialConfigList": [
+      0
+    ],
+    "ThemeGetDesc": {
+      "hash": 1591259803
+    },
+    "WeatherGroupConfig": 6,
+    "ThemeUIConfig": 0,
+    "ThemeBGLarge": "SpriteOutput/SpaceShip/Bg/Bg06",
+    "ThemeDesc": {
+      "hash": 2147240488
+    },
+    "ThemeName": {
+      "hash": -705871634
+    },
+    "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab06",
+    "GiftDesc": {
+      "hash": 701627401
+    },
+    "ThemeBGMConfigList": [
+      401008,
+      401009,
+      401011
+    ],
+    "SpaceShipConfigID": 400006,
+    "ThemeTagList": [
+      2,
+      4,
+      5
+    ]
+  },
+  {
+    "AKBMFBGNGLP": false,
+    "Display": true,
+    "ThemeBGSmall": "SpriteOutput/SpaceShip/Tab/Tab06",
+    "GFLJDALCIGB": true,
+    "HENILAHGNJK": [
+      401008,
+      401009,
+      401011,
+      401012
+    ],
+    "RandomThemeBGM": 0,
+    "SpecialConfigList": [
+      0
+    ],
+    "ThemeGetDesc": {
+      "hash": 1591259808
+    },
+    "WeatherGroupConfig": 1,
+    "ThemeUIConfig": 0,
+    "ThemeBGLarge": "SpriteOutput/SpaceShip/Bg/Bg07",
+    "ThemeDesc": {
+      "hash": 2147240489
+    },
+    "ThemeName": {
+      "hash": -705871633
+    },
+    "GiftBGPath": "SpriteOutput/SpaceShip/Tab/Tab07",
+    "GiftDesc": {
+      "hash": 701627401
+    },
+    "ThemeBGMConfigList": [
+      401008,
+      401009,
+      401011
+    ],
+    "SpaceShipConfigID": 400007,
+    "ThemeTagList": []
+  }
+]
