@@ -11620,7 +11620,7 @@ class StigmataDetailData(betterproto.Message):
     id: int = betterproto.uint32_field(1)
     level: int = betterproto.uint32_field(2)
     rune_list: List["StigmataRune"] = betterproto.message_field(3)
-    unique_id: int = betterproto.uint32_field(4)
+    unique_id: int = betterproto.uint32_field(7)
 
 
 @dataclass
@@ -11655,8 +11655,8 @@ class AvatarDetailData(betterproto.Message):
     skill_list: List["AvatarSkillDetailData"] = betterproto.message_field(8)
     dress_id: int = betterproto.uint32_field(9)
     avatar_combat: int = betterproto.uint32_field(10)
-    avatar_artifact: "AvatarArtifactDetail" = betterproto.message_field(11)
-    avatar_sub_star: int = betterproto.uint32_field(12)
+    avatar_artifact: "AvatarArtifactDetail" = betterproto.message_field(12)
+    avatar_sub_star: int = betterproto.uint32_field(13)
 
 
 @dataclass
