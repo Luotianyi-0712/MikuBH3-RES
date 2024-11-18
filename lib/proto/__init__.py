@@ -11447,7 +11447,7 @@ class Stigmata(betterproto.Message):
     refine_value: int = betterproto.uint32_field(11)
     promote_times: int = betterproto.uint32_field(12)
     wait_select_rune_group_list: List["StigmataRuneGroup"] = betterproto.message_field(
-        13
+        16
     )
 
 
@@ -13278,7 +13278,7 @@ class ByteArray(betterproto.Message):
 @dataclass
 class ByteString(betterproto.Message):
     empty: bytes = betterproto.bytes_field(1)
-    bytes: List[bytes] = betterproto.bytes_field(2)
+    a_bytes: List[bytes] = betterproto.bytes_field(2)
 
 
 @dataclass
