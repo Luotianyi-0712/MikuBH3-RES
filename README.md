@@ -1,1 +1,1 @@
-# Resources for certain adventure anime game
+#Old Resources for certain adventure anime game
